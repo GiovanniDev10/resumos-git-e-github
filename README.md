@@ -10,7 +10,8 @@
 
 | Aulas | Resumos |
 | ----- | ------- |
-| Gravando alterações no repositório local | [Resumo]() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ```
 git init
